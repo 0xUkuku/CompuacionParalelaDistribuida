@@ -1,2 +1,2 @@
-# CompuacionParalelaDistribuida
-Computación paralela y distribuida
+# Compuacion Paralela y Distribuida
+Lab
