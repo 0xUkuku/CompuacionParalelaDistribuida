@@ -1,4 +1,4 @@
-// Code souce from :
+// Source code from :
 // https://mpitutorial.com/tutorials/mpi-send-and-receive/
 
 #include </usr/local/include/mpi.h>
@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 int main(int argc, char** argv) {
-  const int PING_PONG_LIMIT = 11;
+  const int PING_PONG_LIMIT = 10;
 
   MPI_Init(NULL, NULL);
   int world_rank;
